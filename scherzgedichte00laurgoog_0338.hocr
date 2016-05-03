@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./scherzgedichte00laurgoog_0338.png"; bbox 0 0 3517 5709; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 486 2167 638 4419">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 486 2167 638 4419">
+     <span class='ocr_line' id='line_1_1' title="bbox 486 2167 538 2658; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 486 2167 538 2658; x_wconf 54' lang='lat' dir='ltr'>‘Htan&#39;ztnnnno</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 548 2468 638 4419; textangle 90"><span class='ocrx_word' id='word_1_2' title='bbox 548 3714 585 4419; x_wconf 58' lang='lat' dir='ltr'>tterarssscher</span> <span class='ocrx_word' id='word_1_3' title='bbox 551 3293 585 3651; x_wconf 59' lang='grc' dir='ltr'>νει-81η</span> <span class='ocrx_word' id='word_1_4' title='bbox 551 3113 586 3219; x_wconf 66' lang='lat' dir='ltr'>:tn</span> <span class='ocrx_word' id='word_1_5' title='bbox 552 2468 638 3048; x_wconf 57' lang='grc' dir='ltr'>ὃτυῂἓὲεέἔέ.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 688 3101 689 3634">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 688 3101 689 3634">
+     <span class='ocr_line' id='line_1_3' title="bbox 688 3101 689 3634; textangle 90"><span class='ocrx_word' id='word_1_6' title='bbox 688 3101 689 3634; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1764 5709">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1764 5709">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1764 5709; textangle 90"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1764 5709; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

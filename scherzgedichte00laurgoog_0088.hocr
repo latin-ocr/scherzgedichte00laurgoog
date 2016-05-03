@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./scherzgedichte00laurgoog_0088.png"; bbox 0 0 3517 5709; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 611 2132 2684 2528">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 611 2132 2684 2528">
+     <span class='ocr_line' id='line_1_1' title="bbox 1059 2132 2212 2232; baseline -0.001 -4"><span class='ocrx_word' id='word_1_1' title='bbox 1059 2136 1555 2232; x_wconf 80' lang='lat' dir='ltr'><strong>ERSTER</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1619 2132 2212 2232; x_wconf 77' lang='lat' dir='ltr'><strong>ANHANG.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 611 2408 2684 2528; baseline -0.002 0"><span class='ocrx_word' id='word_1_3' title='bbox 611 2408 1743 2528; x_wconf 80' lang='lat' dir='ltr'><strong>LATEINISOHE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1820 2408 2684 2528; x_wconf 83' lang='lat' dir='ltr'>GEDICHTE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1127 2699 2588 2786">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1127 2699 2588 2786">
+     <span class='ocr_line' id='line_1_3' title="bbox 1127 2699 2588 2786; baseline -0.012 -5"><span class='ocrx_word' id='word_1_5' title='bbox 1127 2704 1351 2780; x_wconf 71' lang='lat' dir='ltr'><strong>VON</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1403 2700 2160 2780; x_wconf 65' lang='lat' dir='ltr'><strong>LAUREhfflERG.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 2384 2699 2435 2786; x_wconf 61' lang='lat' dir='ltr'><em>f</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 2480 2712 2588 2764; x_wconf 61' lang='lat' dir='ltr'><strong>m.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
